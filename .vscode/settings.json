@@ -1,0 +1,6 @@
+{
+    "yaml.extension.recommendations": false,
+    "mdb.sendTelemetry": false,
+    "gitlens.telemetry.enabled": false,
+    "aws.telemetry": false
+}
